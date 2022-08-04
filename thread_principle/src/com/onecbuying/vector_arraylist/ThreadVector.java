@@ -1,4 +1,4 @@
-package com.onecbuying.vector;
+package com.onecbuying.vector_arraylist;
 
 import java.util.ArrayList;
 import java.util.Vector;

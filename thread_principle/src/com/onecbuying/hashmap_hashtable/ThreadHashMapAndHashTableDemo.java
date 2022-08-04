@@ -9,7 +9,7 @@ import java.util.Hashtable;
  * @version 1.0
  * @ClassName ThreadHashMapAndHashTableDemo
  * @company 公司
- * @Description HashMap和HashTable源码分析
+ * @Description HashMap和HashTable源码分析以及Collections工具类
  * HashTable源码:
  * public synchronized V put(K key, V value) {
  *         // Make sure the value is not null

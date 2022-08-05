@@ -1,4 +1,4 @@
-package com.onecbuying.countDownLatch;
+package com.onecbuying.countdownlatch;
 
 import java.util.concurrent.CountDownLatch;
 
